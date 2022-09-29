@@ -12,5 +12,5 @@ int main(){
     // cout<<"auto run on save working?\n";
     // cout<<"auto run on save working?\n";
     // cout<<"UI changed..\n";
-	cout << "changes made without autosav" << endl ;
+	cout << "changes made without autosave" << endl ;
 }
