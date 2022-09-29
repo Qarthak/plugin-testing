@@ -14,5 +14,5 @@ int main(){
     // cout<<"UI changed..\n";
 	int x;                                                                                        
 	// cin >> x;
-	cout << "hello dello" << endl ;
+	cout << "started now" << endl ;
 }
