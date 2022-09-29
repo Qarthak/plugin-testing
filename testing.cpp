@@ -14,5 +14,5 @@ int main(){
     // cout<<"UI changed..\n";
 	int x;                                                                                        
 	// cin >> x;
-	cout << "10" << endl ;
+	cout << "" << endl ;
 }
