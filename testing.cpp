@@ -14,5 +14,5 @@ int main(){
     // cout<<"UI changed..\n";
 	int x;                                                                                        
 	// cin >> x;
-	cout << "changes made without autosavedello" << endl ;
+	cout << "changes made without autos dello" << endl ;
 }
