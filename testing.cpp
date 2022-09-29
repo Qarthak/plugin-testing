@@ -14,5 +14,5 @@ int main(){
     // cout<<"UI changed..\n";
 	int x;
 	// cin >> x ;
-	cout << "changes made without autosave after reload" << endl ;
+	cout << "changes made without autosave after reld" << endl ;
 }
