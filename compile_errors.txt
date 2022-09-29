@@ -1,4 +1,0 @@
-testing.cpp: In function ‘int main()’:
-testing.cpp:15:6: warning: unused variable ‘x’ [-Wunused-variable]
-   15 |  int x;
-      |      ^
